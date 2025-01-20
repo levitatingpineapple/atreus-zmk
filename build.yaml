@@ -6,7 +6,7 @@
 # `artifact-name` to assign a name to distinguish build outputs from each other:
 #
 board: [ "nice_nano" ]
-shield: [ "atreus" ]
+shield: [ "atreus_choc" ]
 # include:
 #   - board: bdn9_rev2
 #   - board: nice_nano_v2
